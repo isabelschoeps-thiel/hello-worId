@@ -1,6 +1,6 @@
-# name: "CodeQL – Secure Static Analysis"
+name: 
 on:
-  push:
+  name: isabelschoeps-thiel
   branches: main, master
   workflow_dispatch:
 
